@@ -1,0 +1,2 @@
+# mongodb://[username]:[password]@[host]:[ip]/[database]
+spring.data.mongodb.uri=mongodb://user:1234@132.145.90.167:27017/user

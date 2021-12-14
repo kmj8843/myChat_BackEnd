@@ -1,0 +1,23 @@
+{
+  "type": "service_account",
+  "project_id": "mychat-8f636",
+  "private_key_id": "f8a9ce6ad5ab5ef6dc78a5b2878b07ef134f1c07",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtFgBEUM7PhRQE\nV17e7F57knQ4cyNSqMubRNl+XGBugFCqtGhZNwT5s+QpUbWg6oXiKeo0s4KPwgL+\nNetdPVbgyBfEvOpW96JlaygKQA4Ekuswj1jTivD9J6oq/PF7cRg0XpkGf/RCqKJ8\n7gv0scnDcPUBzUhj18HBsNKtaE5p+k15TOT6uGC1ynqCIpWOoX0CGGP1syBXWZKy\nySJxs+WbsnAcHjvA8xSmbMeaEyKde8rJmDYQR0HUevEBavGPlIDS67xMlV6v+U+2\nVUP6VbEfSkjhOcOm2t4j4YU2HWpjZU/cKHIbWbH4Ujg9IiEiOtgBBzTqYsWiRStC\ny1xDOO1rAgMBAAECggEAGndDwS5uARNDNUq6yfFwnQqO1NbeLtR6lZpYe1bas+rQ\n6tk9H28nRps4Jw1EbX+Oyz9HfZl5PEwZMw/Blnc7opFV+RI97uBcp49UBwU2X4Kr\njbhNh8M2CC+ZeItGzW5EmjVgxrqn+c1ZUyr/DwJkbIsIG6dtCz9BdEF6ZWOOoeuQ\nj4NvMZAdQmn5OcLOX/1guxkAT+yP7OjCmXkj28+LnLZU4dN18UlQrgwk9cXWpQXH\nAZODqwUg68Sfid17PVQ2XVvfkWNZWR35AFm2bixgmcW7+VbKPlPvHcd1Wtv9jG8U\nBTdzr8tf2IjwhsDDX6dfzvtQGYGoTk8KH7ZgpwvfOQKBgQDf/Ph5H6kg8UjgDUG9\nrKIG8ec8GOD0MDHC1nWSGDREpkC6Br2Z/Ci/x2ts8UYquBaxo+NRY7hKPqpC7NVi\nXnQvWvuPPx18XYomrAM8Qu5MSU3YVxZ0/94I9teoe+0BwyoUlF9RlbiZmaVLidHS\nXuChOmqywF1L+BNDKXGmjQwy/wKBgQDF0q0zzpxSEiK7wA92P/a0t1/K+lsUR9Zb\ncKEw1UKjiEk7DFnRI1s7Npu0e4MaaanEHrgbGYTTpOYupImTT0jx3AXQzE06eHbs\nYpCZSE7F4fVyRl6V310oG1H55KNob61i+M9PzU+PeCAI7+Bv3ErFrEum9Jw0Glwz\nScyOkFPBlQKBgQC2ATPSEET4zLcfwAXsXwulwwjXT4vzP/ofTO5qERrfsYwk3PdR\n2ZEvDJchBgizC7T9EaPT7cjBI5xsF0/ox8F2/WIt6uZFuShZ9ioG3IgQGvyTT2ij\nF4pPFGz2rgRPC0v1Pv8ZJyTCQxQKhmmlnIzA1dv/dcoZwfG9AD8mS7Re9wKBgGYF\npAvO53GwJrebcp3ymQJUfBPLkANilRttd8QeiBKcq9/HG98vE9Ly89RdypxpmAMs\nMJjRTV51cbzmYIlXX3BUn68yXjXkgLiikJ5s2ytUwGfiAM/cdUfE5z8welHXHp2n\nYgtvADQmqKbTR3WJMArIM+/zwUdhvOE6k0OHDZsNAoGAKYbJvl5gjulAL7h98rZH\nPSUFvDlpXYVK/kCHe19+eh41FmYjFow7+AMPrhy7BxJ+mmg5s7dYKA3zR2O5PkyI\nz9K06CXEcYayM7M5IqbQ/w1n4FJeqdR9avTxvprVSjr4ZddUGbHBg2avKPi6UX8b\nbwelMAouw77Y4n9bHedIIbM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-avb1k@mychat-8f636.iam.gserviceaccount.com",
+  "client_id": "113660547629444203804",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-avb1k%40mychat-8f636.iam.gserviceaccount.com"
+}
+{
+  "type": "service_account",
+  "client_id": "391737210535-pp7vlgqknbht3pgks5m2m6dr8a9s7ppq.apps.googleusercontent.com",
+  "project_id": "mychat-8f636",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_secret": "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",
+  "redirect_uris": ["https://mychat-8f636.firebaseapp.com/__/auth/handler"],
+  "javascript_origins": ["http://localhost","http://localhost:5000","https://mychat-8f636.firebaseapp.com","http://localhost:8080"]
+}
